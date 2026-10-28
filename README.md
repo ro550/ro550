@@ -37,5 +37,8 @@ I'm Rodney Karia, a hands-on full-stack developer specializing in building dynam
 - Engaging with open-source to learn, build, and collaborate  
 - Improving backend systems with a focus on reliability and scale
 
+## Let's Connect
+- LinkedIn: https://www.linkedin.com/in/rodney-karia/
+- Email: krodney985@gmail.com
 ---
 
